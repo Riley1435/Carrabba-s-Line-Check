@@ -13,7 +13,7 @@ namespace RestarauntLineCheck
 {
    class DatabaseConnector
    {
-      private string connstr = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=LineCheck;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+      private string connstr = "STRING FROM QUERY GOES HERE";
       private string appearance;
       private string taste;
       private string temp;
